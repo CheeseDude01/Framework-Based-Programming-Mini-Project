@@ -6,10 +6,10 @@
 </head>
 <body>
     <h1>welcome to my (Alfa) Network</h1>
-    <p>Click the button below to see my GitHub repo</p>
+    <p>Click the button below to see my index</p>
 
     <a href="" class="">
-        GitHub
+        Index
     </a>
 </body>
 </html>
